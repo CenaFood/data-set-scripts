@@ -1,0 +1,1 @@
+python -m instaLooter hashtag foodporn D:\CenaInsta\Images\Instagram -n 200 -u x -p y
